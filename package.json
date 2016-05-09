@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "pillys",
+    "email": "pillys@163.com",
+    "url": "http://www.qque.com"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "spritesify": "~0.2.0"
+  },
+  "description": "png 图标自动合并工具",
+  "keywords": [
+    "css sprites",
+    "sprites",
+    "png",
+    "combo",
+    "img"
+  ],
+  "main": "index.js",
+  "name": "spritesify-cli",
+  "bin": {
+    "spritesify": "./bin/spritesify"
+  },
+  "repository": {
+    "url": "https://github.com/pillys/spritesify-cli",
+    "type": "git"
+  },
+  "version": "0.0.8",
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pillys/spritesify-cli/issues"
+  },
+  "homepage": "https://github.com/pillys/spritesify-cli",
+  "scripts": {}
+}
