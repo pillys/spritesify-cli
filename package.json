@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "spritesify": "~1.2.0"
+    "spritesify": "~1.4.0"
   },
   "description": "png 图标自动合并工具",
   "keywords": [
@@ -25,7 +25,7 @@
     "url": "https://github.com/pillys/spritesify-cli",
     "type": "git"
   },
-  "version": "0.3.0",
+  "version": "0.5.0",
   "readmeFilename": "README.md",
   "license": "MIT",
   "bugs": {
