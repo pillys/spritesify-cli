@@ -51,9 +51,14 @@ npm install spritesify-cli -g
 spritesify <pngSourcePath> -o <cssPath> -u <httpUrl>
 ```
 
-* pngSourcePath：运行目录（指 ``spritesify/`` 所在的父级目录）
+* pngSourcePath：运行目录（指 ``spritesify/`` 目录）
 * cssPath：索要生成或合并的 css 文件路径，如果不需要写入 css，该项请传入 ``''``
 * httpUrl：需要设置的 ``http`` 全路径，如果不需要全路径，该项传入 ``''``
+
+```
+spritesify ./spritesify/ -o ../css/style.css 
+```
+
 
 ## HTML 用法
 ```html
